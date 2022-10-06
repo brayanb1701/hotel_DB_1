@@ -1,2 +1,3 @@
 # hotel_DB_1
- Project about management of a hotel for the course of Databases 1.
+ Project about management of a hotel for the course of Databases 1.  It was made using HTML5, CSS, PHP, Js, MySQL, also it was checked that's still working in Xampp (ver. 8.1.10). To accelerate the process in frontend design, a template was used with the corresponding credits to the designer, adjusting it to the requirements. The real project is focused on the area of administration, starting from the login page. As it was a project for a DB course, the main goal was to design the DB from scratch and implement it, also creating some reports using querys with MySQL, that can be viewed in the administration area.
+
